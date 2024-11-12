@@ -1,0 +1,4 @@
+Banana (Food): 80000.00
+Sony (Electronic): 50000000.00
+Inv: 50080000.00
+* Remove all products

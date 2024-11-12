@@ -1,0 +1,17 @@
+------
+* Remove all
+Student SV01 - Tung – 2000 – Department(K01 – CNTT – An)
+Student SV02 - Binh – 2005 – Department(K02 – QTKD – Trung)
+---Print---
+SV01 - Tung – 2000 – Department(K01 – CNTT – An)
+SV02 - Binh – 2005 – Department(K02 – QTKD – Trung)
+------
+* Remove all
+Student SV03 - Lam – 2005 – Department(K02 – QTKD – Trung)
+Student SV04 - Tai – 2000 – Department(K01 – CNTT – An)
+---Print---
+SV03 - Lam – 2005 – Department(K02 – QTKD – Trung)
+SV04 - Tai – 2000 – Department(K01 – CNTT – An)
+---Sort---
+SV04 - Tai – 2000 – Department(K01 – CNTT – An)
+SV03 - Lam – 2005 – Department(K02 – QTKD – Trung)

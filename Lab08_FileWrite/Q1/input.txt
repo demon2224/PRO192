@@ -1,0 +1,6 @@
+5
+F P001 Banana 8000.0 10 false
+E P002 Sony 50000000 1 0
+Print
+Total
+Clear

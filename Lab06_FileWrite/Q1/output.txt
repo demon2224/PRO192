@@ -1,0 +1,14 @@
+Add document: 001 - CSoft
+---Print---
+001 - CSoft
+Add book: 002 - JavaBook - 200 pages - available
+---Print---
+001 - CSoft
+002 - JavaBook - 200 pages - available
+----------
+* Remove all
+Add document: 001 - SQLSoft
+Add book: 002 - CSSBook - 200 pages - unavailable
+---Print---
+001 - SQLSoft
+002 - CSSBook - 200 pages - unavailable

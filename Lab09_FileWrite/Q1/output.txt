@@ -1,0 +1,10 @@
+---Print---
+(AC,9),(B9B,2),(C7,8),(D3D,2),(EG,7),(F5F,6),(G4,5),(H3,4)
+---F1---
+6
+---F2---
+Before Updating: (AC,9),(B9B,2),(C7,8),(D3D,2),(EG,7),(F5F,6),(G4,5),(H3,4)
+After Updating: (AC,9),(B9B,99),(C7,8),(D3D,2),(EG,7),(F5F,6),(G4,5),(H3,4)
+---F3---
+Before Sorting: (AC,9),(B9B,99),(C7,8),(D3D,2),(EG,7),(F5F,6),(G4,5),(H3,4)
+After Sorting: (D3D,2),(EG,7),(C7,8),(AC,9),(B9B,99),(F5F,6),(G4,5),(H3,4)

@@ -1,0 +1,13 @@
+12
+Carp AC 9
+Carp B9B 2
+Carp C7 8
+Carp D3D 2
+Carp EG 7
+Carp F5F 6
+Carp G4 5
+Carp H3 4
+Print
+F1
+F2
+F3

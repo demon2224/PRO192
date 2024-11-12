@@ -1,0 +1,10 @@
+8
+Document 001 CSoft
+Print
+Book 002 JavaBook 200 0
+Print
+Clear
+Document 001 SQLSoft
+Book 002 CSSBook 200 1
+Print
+

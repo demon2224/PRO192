@@ -1,0 +1,15 @@
+New movie M001: Avatar (2009) by John added!
+New movie M002: Inception (1999) by Jack added!
+New movie M003: Titanic (1998) by Rose added!
+New track T001: Summer (Rock) by Peter added!
+---List---
+Movie M001: Avatar (2009) by John.
+Movie M002: Inception (1999) by Jack.
+Movie M003: Titanic (1998) by Rose.
+Music track T001: Summer (Rock) by Peter.
+Total size: 1275MB
+----------
+* Remove all media
+---List---
+Empty
+Total size: 0MB

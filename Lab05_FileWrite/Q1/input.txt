@@ -1,0 +1,10 @@
+9
+Clear
+Stud SV01 Tung 2000 K01 CNTT An
+Stud SV02 Binh 2005 K02 QTKD Trung
+Print
+Clear
+Stud SV03 Lam 2005 K02 QTKD Trung
+Stud SV04 Tai 2000 K01 CNTT An
+Print
+Sort
